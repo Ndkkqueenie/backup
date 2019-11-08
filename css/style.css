@@ -376,13 +376,14 @@ color: white;
     /*padding-bottom: 25vh;*/
 }   
    .form__field {
+    width: 90%;
     margin-right: 20px;
   }
 }
 
 @media screen and (min-width: 250px) and (max-width: 510px) {
     .container p {
-   font-size: 16px;
+   font-size: 14px;
     }
     .form__field h2 {
    font-size: 16px;
